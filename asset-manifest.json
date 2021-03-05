@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/usurvey/static/css/main.dc6b257c.chunk.css",
+    "main.js": "/usurvey/static/js/main.65cbf56a.chunk.js",
+    "main.js.map": "/usurvey/static/js/main.65cbf56a.chunk.js.map",
+    "runtime-main.js": "/usurvey/static/js/runtime-main.d8ad7bb5.js",
+    "runtime-main.js.map": "/usurvey/static/js/runtime-main.d8ad7bb5.js.map",
+    "static/js/2.1c4faac2.chunk.js": "/usurvey/static/js/2.1c4faac2.chunk.js",
+    "static/js/2.1c4faac2.chunk.js.map": "/usurvey/static/js/2.1c4faac2.chunk.js.map",
+    "index.html": "/usurvey/index.html",
+    "precache-manifest.3e7186a5babd7b099e7be742fb0d655c.js": "/usurvey/precache-manifest.3e7186a5babd7b099e7be742fb0d655c.js",
+    "service-worker.js": "/usurvey/service-worker.js",
+    "static/css/main.dc6b257c.chunk.css.map": "/usurvey/static/css/main.dc6b257c.chunk.css.map",
+    "static/js/2.1c4faac2.chunk.js.LICENSE.txt": "/usurvey/static/js/2.1c4faac2.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/usurvey/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d8ad7bb5.js",
+    "static/js/2.1c4faac2.chunk.js",
+    "static/css/main.dc6b257c.chunk.css",
+    "static/js/main.65cbf56a.chunk.js"
+  ]
+}
